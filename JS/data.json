@@ -1,0 +1,77 @@
+var movies =[{
+	"title": "Awakenings", 
+	"year": "1990, ",
+	"director": "Director: Penny Marshall",
+	"description": "Robert De Niro and Robin Williams star in a story of the consequences of a maverick doctor's medical miracle.",
+	"img":"img/awakenings.jpeg"
+}, {
+	"title": "Good Will Hunting", 
+	"year": "2005, ",
+	"director": "Director: Gus Van Sant", 
+	"description": "Will Hunting, a janitor at MIT, has a gift for mathematics but needs help from a psychologist to find direction in his life.",
+	"img":"img/gwh.jpg"
+}, {
+	"title": "Dead Poets Society", 
+	"year": "1989, , ",
+	"director": "Director: Peter Weir",
+	"description": " Robin Williams stars as a teacher who inspires his students to live their lives to the fullest. But when tragedy strikes, his lessons are put to the test.",
+	"img":"img/dps.jpeg"
+}, {
+	"title": "Good Morning Vietnam", 
+	"year": "1988, ",
+	"director": "Director: Barry Levinson",
+	"description": "Robin Williams delivers his quintessential comedic performance as Army DJ Adrian Cronauer. ",
+	"img":"img/gmv.jpg"
+}, {
+	"title": "The Fisher King", 
+	"year": "1991, ",
+	"director": "Director: Terry Gilliam", 
+	"description": "A homeless history professor who lives in a world of fantasy plucks a N.Y. shock jock (Jeff Bridges) from disaster.",
+	"img":"img/fk.jpeg"
+}, {
+	"title": "Patch Adams", 
+	"year": "1998, ",
+	"director": "Director: Tom Shadyac",
+	"description": "Patch Adams, a doctor who will do anything to make his patients laugh - in this inspiring comedy based on a true story.",
+	"img":"img/pa.jpg"
+}, {
+	"title": "Mrs. Doubtfire", 
+	"year": "1993,",
+	"director": "Director: 20th century Fox", 
+	"description": "The eccentric dad of three children dresses as a British nanny so he can care for his children at the home of their mother in this touching comedy.",
+	"img":"img/doubtfire.jpg"
+}, {
+	"title": "The World according to Garp", 
+	"year": "1982, ", 
+	"director": "Director: George Roy Hill",
+	"description": "Robin Williams plays John Irving's quirky everyman, a wistful writer wrestling with our screwloose modern age. ",
+	"img":"img/garp.jpeg"
+}, {
+	
+	"title": "The Birdcage", 
+	"year": "1996, ",
+	"director": "Director: Mike Nichols", 
+	"description": "Robin Williams, Gene Hackman, Nathan Lane and Dianne Wiest lead the laughs in this wild comedy that insists you don't have to be a woman to be a mother.",
+	"img":"img/bc.jpeg"
+}, {
+	"title": "One Hour Photo", 
+	"year": "2002",
+	"director": "Director: Mark Romanek", 
+	"description": "An alienated photo-finishers obsession with a seemingly ordinary family culminates in a bizarre confrontation with an unfaithful father.",
+	"img":"img/ohf.jpg"
+}, {
+	"title": "What Dreams May Come", 
+	"year": "1998, ",
+	"director": "Director: Vincent Ward", 
+	"description": "After Chris Nielsen dies in an accident, he tries to remain close to his beautiful mortal wife, Annie",
+	"img":"img/wdmc.jpeg"
+}, {
+	"title": "Come inside my mind", 
+	"year": "2017, ",
+	"director": "Director: Martina Zenovich", 
+	"description": "Told largely through his own words, this funny, intimate and heartbreaking portrait of Robin Williams looks back at the comedy legend.",
+	"img":"img/cimm.jpeg"
+}];
+
+
+
